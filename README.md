@@ -1,7 +1,4 @@
 # graduation-project
-
-# graduation-project
-
 Yapılacak Listesi
 
 Stok işlemleri
