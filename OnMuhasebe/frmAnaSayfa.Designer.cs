@@ -1,7 +1,7 @@
 ﻿
 namespace OnMuhasebe
 {
-    partial class Form1
+    partial class frmAnaSayfa
     {
         /// <summary>
         /// Required designer variable.
