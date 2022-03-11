@@ -53,6 +53,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BankaModulu\Class1.cs" />
+    <Compile Include="CariModulu\Class1.cs" />
+    <Compile Include="CekSenetModulu\Class1.cs" />
+    <Compile Include="FaturaModulu\Class1.cs" />
     <Compile Include="frmAnaSayfa.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +65,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StokModulu\Class1.cs" />
     <EmbeddedResource Include="frmAnaSayfa.resx">
       <DependentUpon>frmAnaSayfa.cs</DependentUpon>
     </EmbeddedResource>
@@ -89,13 +94,7 @@
   <ItemGroup>
     <None Include="Resources\416374_envelope_file_folder_mail_office_icon.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="BankaModulu\" />
-    <Folder Include="CariModulu\" />
-    <Folder Include="CekSenetModulu\" />
-    <Folder Include="FaturaModulu\" />
-    <Folder Include="StokModulu\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
