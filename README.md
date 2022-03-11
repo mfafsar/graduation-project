@@ -34,9 +34,11 @@ Kullanıcı ve Kullanıcı yetki işlemleri
 Görevler
 
 Furkan:
-
+Stok işlemleriyle alakalı tüm formlar
 Muhammed:
-
+Cari işlemleriyle alakalı tüm formlar
 Veysel:
-
+Fatura işlemleriyle alakalı tüm formlar
 Faruk:
+Bütün ana form işlemleri
+Banka işlemleriyle alakalı tüm formlar
