@@ -45,16 +45,19 @@ namespace OnMuhasebe
             this.ribbonControl1.SearchEditItem,
             this.barButtonItem1});
             this.ribbonControl1.Location = new System.Drawing.Point(0, 0);
+            this.ribbonControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.ribbonControl1.MaxItemId = 2;
             this.ribbonControl1.Name = "ribbonControl1";
+            this.ribbonControl1.OptionsMenuMinWidth = 385;
             this.ribbonControl1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.ribbonPage1});
-            this.ribbonControl1.Size = new System.Drawing.Size(1174, 158);
+            this.ribbonControl1.Size = new System.Drawing.Size(1370, 193);
             // 
             // barButtonItem1
             // 
             this.barButtonItem1.Caption = "barButtonItem1";
             this.barButtonItem1.Id = 1;
+            this.barButtonItem1.ImageOptions.Image = global::OnMuhasebe.Properties.Resources._416374_envelope_file_folder_mail_office_icon;
             this.barButtonItem1.Name = "barButtonItem1";
             // 
             // ribbonPage1
@@ -78,10 +81,11 @@ namespace OnMuhasebe
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1174, 605);
+            this.ClientSize = new System.Drawing.Size(1370, 745);
             this.Controls.Add(this.ribbonControl1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Ribbon = this.ribbonControl1;
             this.Text = "Form1";
