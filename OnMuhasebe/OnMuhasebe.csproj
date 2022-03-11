@@ -55,6 +55,12 @@
   <ItemGroup>
     <Compile Include="BankaModulu\Class1.cs" />
     <Compile Include="CariModulu\Class1.cs" />
+    <Compile Include="CariModulu\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CariModulu\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="CekSenetModulu\Class1.cs" />
     <Compile Include="FaturaModulu\Class1.cs" />
     <Compile Include="frmAnaSayfa.cs">
