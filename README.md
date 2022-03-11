@@ -1,1 +1,7 @@
 # graduation-project
+
+yapılacaklar
+..
+..
+
+...
