@@ -67,7 +67,6 @@ namespace OnMuhasebe
             this.ribbonPageGroup1 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPageGroup2 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPageGroup3 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
-            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -373,21 +372,11 @@ namespace OnMuhasebe
             this.ribbonPageGroup3.Name = "ribbonPageGroup3";
             this.ribbonPageGroup3.Text = "Fatura İşlemleri";
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(23, 191);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(71, 48);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
             // frmAnaSayfa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1421, 841);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.ribbonControl1);
             this.Name = "frmAnaSayfa";
             this.Ribbon = this.ribbonControl1;
@@ -438,7 +427,6 @@ namespace OnMuhasebe
         private System.Windows.Forms.ImageList Res32;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup2;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup3;
-        private System.Windows.Forms.Button button1;
     }
 }
 
