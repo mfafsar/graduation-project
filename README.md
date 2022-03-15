@@ -33,15 +33,15 @@
 
 Görevler
 --------
-Furkan:
+Furkan:<br/>
 -[ ] Stok işlemleriyle alakalı tüm formlar
 --------
-Muhammed:
+Muhammed:<br/>
 -[ ] Cari işlemleriyle alakalı tüm formlar
 --------
-Veysel:
+Veysel:<br/>
 -[ ] Fatura işlemleriyle alakalı tüm formlar
 --------
-Faruk:
+Faruk:<br/>
 -[ ] Bütün ana form işlemleri
 -[ ] Banka işlemleriyle alakalı tüm formlar
