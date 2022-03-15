@@ -43,6 +43,6 @@ Veysel:<br/>
 -[ ] Fatura işlemleriyle alakalı tüm formlar
 --------
 Faruk:<br/>
--[ ] Bütün ana form işlemleri<br/>
+-[x] Bütün ana form işlemleri<br/>
 -[ ] Banka işlemleriyle alakalı tüm formlar
 --------
