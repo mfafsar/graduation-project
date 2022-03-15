@@ -45,3 +45,4 @@ Veysel:<br/>
 Faruk:<br/>
 -[ ] Bütün ana form işlemleri<br/>
 -[ ] Banka işlemleriyle alakalı tüm formlar
+--------
