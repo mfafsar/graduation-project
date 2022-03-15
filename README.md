@@ -56,8 +56,6 @@ Faruk:<br/>
 ###### Proje genelinde oluşturulan form, class ve formlara eklenecek componentların isimleri camel case standardına uyularak isimlendirilecek
 ###### bkz. https://medium.com/@10ursabanoglu/yaz%C4%B1l%C4%B1mda-i%CC%87simlendirme-%C3%A7e%C5%9Fitleri-d13691581639
 --------
-###### 
---------
 ###### Kesinlikle habersiz master'a push atılmayacak.
 --------
 ###### Tasarlanacak formlar aşağıdaki örnek form tasarımının hatlarına bağlı kalmaya çalışarak tasarlanacak.
