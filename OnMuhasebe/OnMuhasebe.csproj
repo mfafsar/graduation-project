@@ -103,7 +103,66 @@
   <ItemGroup>
     <None Include="Resources\416374_envelope_file_folder_mail_office_icon.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\othercharts_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\othercharts_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pageinfo_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pageinfo_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\packageproduct_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\packageproduct_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\othercharts_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\othercharts_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertblanklinepivottable_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertblanklinepivottable_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breakingchange_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breakingchange_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertblanklinepivottable_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertblanklinepivottable_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breakingchange_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breakingchange_16x161.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
