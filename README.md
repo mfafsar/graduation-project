@@ -1,44 +1,47 @@
 # graduation-project
-Yapılacak Listesi
 
-Stok işlemleri
+## Yapılacak Listesi
 --------
-Cari işlemleri
+###### Stok İşlemleri
 --------
-Satış faturası işlemleri
+###### Cari işlemleri
 --------
-Cari hareket işlemleri
+###### Satış faturası işlemleri
 --------
-Stok hareket işlemleri
+###### Cari hareket işlemleri
 --------
-Kasa işlemleri
+###### Stok hareket işlemleri
 --------
-Banka işlemleri
+###### Kasa işlemleri
 --------
-Çek işlemleri
+###### Banka işlemleri
 --------
-Senet işlemleri
+###### Çek işlemleri
 --------
-Kapalı satış faturası işlemleri
+###### Senet işlemleri
 --------
-Satış iade faturası işlemleri
+###### Kapalı satış faturası işlemleri
 --------
-Alış ve alış iade faturası işlemleri
+###### Satış iade faturası işlemleri
 --------
-Raporlar
+###### Alış ve alış iade faturası işlemleri
 --------
-Kullanıcı ve Kullanıcı yetki işlemleri
-
+###### Raporlar
+--------
+###### Kullanıcı ve Kullanıcı yetki işlemleri
 --------
 
 Görevler
-
+--------
 Furkan:
-Stok işlemleriyle alakalı tüm formlar
+[] Stok işlemleriyle alakalı tüm formlar
+--------
 Muhammed:
-Cari işlemleriyle alakalı tüm formlar
+[] Cari işlemleriyle alakalı tüm formlar
+--------
 Veysel:
-Fatura işlemleriyle alakalı tüm formlar
+[] Fatura işlemleriyle alakalı tüm formlar
+--------
 Faruk:
-Bütün ana form işlemleri
-Banka işlemleriyle alakalı tüm formlar
+[] Bütün ana form işlemleri
+[] Banka işlemleriyle alakalı tüm formlar
