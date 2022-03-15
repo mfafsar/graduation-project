@@ -34,14 +34,14 @@
 Görevler
 --------
 Furkan:
-[] Stok işlemleriyle alakalı tüm formlar
+-[] Stok işlemleriyle alakalı tüm formlar
 --------
 Muhammed:
-[] Cari işlemleriyle alakalı tüm formlar
+-[] Cari işlemleriyle alakalı tüm formlar
 --------
 Veysel:
-[] Fatura işlemleriyle alakalı tüm formlar
+-[] Fatura işlemleriyle alakalı tüm formlar
 --------
 Faruk:
-[] Bütün ana form işlemleri
-[] Banka işlemleriyle alakalı tüm formlar
+-[] Bütün ana form işlemleri
+-[] Banka işlemleriyle alakalı tüm formlar
