@@ -33,22 +33,27 @@
 
 Görevler
 --------
-Muhammed:<br/>
--[ ] Cari işlemleriyle alakalı tüm formlar tasarımı<br/>
--[ ] Banka işlemleriyle alakalı tüm formlar tasarımı
+Muhammed ve Veysel:<br/>
+-[ ] Cari İşlemleri<br/>
+-[ ] Cari Hareket İşlemleri<br/>
+-[ ] Kasa İşlemleri<br/>
+-[ ] Banka İşlemleri<br/>
+-[ ] Çek İşlemleri<br/>
+-[ ] Senet İşlemleri<br/>
+-[ ] Rapor İşlemleri<br/>
 --------
-Veysel:<br/>
--[ ] Cari işlemleriyle alakalı tüm formlar tasarımı<br/>
--[ ] Banka işlemleriyle alakalı tüm formlar tasarımı
+Furkan ve Faruk:<br/>
+-[ ] Stok İşlemleri<br/>
+-[ ] Stok Hareket İşlemleri<br/>
+-[ ] Satış ve Satış İade Faturası İşlemleri<br/>
+-[ ] Alış ve Alış İade Faturası İşlemleri<br/>
+-[ ] Kapalı Satış Faturası İşlemleri<br/>
+-[ ] Cari İşlemleri<br/>
+-[ ] Login formu<br/>
 --------
-Furkan:<br/>
--[ ] Stok işlemleriyle alakalı tüm formlar tasarımı<br/>
--[ ] Satış faturası işlemleriyle alakalı tüm formların tasarımı
---------
-Faruk:<br/>
+Sadece Faruk:<br/>
 -[ ] Bütün ana form işlemleri<br/>
--[ ] Stok işlemleriyle alakalı tüm formlar tasarımı<br/>
--[ ] Satış faturası işlemleriyle alakalı tüm formların tasarımı
+-[ ] Kullanıcı ve Kullanıcı yetki işlemleri
 --------
 
 ## Proje genelinde uyulacak kurallar
