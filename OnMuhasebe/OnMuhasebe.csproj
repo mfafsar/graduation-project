@@ -82,6 +82,12 @@
     <Compile Include="StokModulu\StokTanıtımKartı.Designer.cs">
       <DependentUpon>StokTanıtımKartı.cs</DependentUpon>
     </Compile>
+    <Compile Include="StokModulu\StokListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StokModulu\StokListeleme.Designer.cs">
+      <DependentUpon>StokListeleme.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="CariModulu\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -101,6 +107,9 @@
     </Compile>
     <EmbeddedResource Include="StokModulu\StokTanıtımKartı.resx">
       <DependentUpon>StokTanıtımKartı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StokModulu\StokListeleme.resx">
+      <DependentUpon>StokListeleme.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="App.config" />
     <None Include="Properties\Settings.settings">
@@ -136,6 +145,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\record_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enablesearch.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lookup&amp;reference_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearpivottable_32x32.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
