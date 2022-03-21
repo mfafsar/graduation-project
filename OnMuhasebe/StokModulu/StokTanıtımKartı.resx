@@ -117,29 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="416374_envelope_file_folder_mail_office_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\416374_envelope_file_folder_mail_office_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="saveto_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\saveto_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="updatetableofcontents_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\updatetableofcontents_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="3669467_list_ic_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3669467_list_ic_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="4831005_browse_magnifier_search_zoom_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4831005_browse_magnifier_search_zoom_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="48761_file_add_upload_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\48761_file_add_upload_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="removepivotfield_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\removepivotfield_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="record_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\record_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  <metadata name="folderBrowserDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>40, 16</value>
+  </metadata>
 </root>
