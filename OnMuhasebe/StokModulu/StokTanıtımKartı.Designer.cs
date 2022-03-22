@@ -416,9 +416,9 @@ namespace OnMuhasebe.StokModulu
             // sb_Delete
             // 
             this.sb_Delete.ImageOptions.Image = global::OnMuhasebe.Properties.Resources.removepivotfield_32x32;
-            this.sb_Delete.Location = new System.Drawing.Point(729, 328);
+            this.sb_Delete.Location = new System.Drawing.Point(707, 328);
             this.sb_Delete.Name = "sb_Delete";
-            this.sb_Delete.Size = new System.Drawing.Size(75, 61);
+            this.sb_Delete.Size = new System.Drawing.Size(97, 61);
             this.sb_Delete.TabIndex = 25;
             this.sb_Delete.Text = "Sil";
             // 
