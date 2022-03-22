@@ -30,11 +30,11 @@ namespace OnMuhasebe.StokModulu
         private void InitializeComponent()
         {
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
-            this.lbl_Stok_Kodu_Hareket = new DevExpress.XtraEditors.LabelControl();
-            this.lbl_Stok_İsmi_Hareket = new DevExpress.XtraEditors.LabelControl();
             this.btn_Search_Stok_Hareket = new DevExpress.XtraEditors.SimpleButton();
             this.txt_Stok_İsmi_Hareket = new DevExpress.XtraEditors.TextEdit();
             this.txt_Stok_Kodu_Hareket = new DevExpress.XtraEditors.TextEdit();
+            this.lbl_Stok_İsmi_Hareket = new DevExpress.XtraEditors.LabelControl();
+            this.lbl_Stok_Kodu_Hareket = new DevExpress.XtraEditors.LabelControl();
             this.gridControl1 = new DevExpress.XtraGrid.GridControl();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.ID = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -72,13 +72,27 @@ namespace OnMuhasebe.StokModulu
             this.groupControl1.TabIndex = 0;
             this.groupControl1.Text = "STOK HAREKET BİLGİLERİ";
             // 
-            // lbl_Stok_Kodu_Hareket
+            // btn_Search_Stok_Hareket
             // 
-            this.lbl_Stok_Kodu_Hareket.Location = new System.Drawing.Point(12, 46);
-            this.lbl_Stok_Kodu_Hareket.Name = "lbl_Stok_Kodu_Hareket";
-            this.lbl_Stok_Kodu_Hareket.Size = new System.Drawing.Size(48, 13);
-            this.lbl_Stok_Kodu_Hareket.TabIndex = 0;
-            this.lbl_Stok_Kodu_Hareket.Text = "Stok Kodu";
+            this.btn_Search_Stok_Hareket.ImageOptions.Image = global::OnMuhasebe.Properties.Resources.lookup_reference_32x321;
+            this.btn_Search_Stok_Hareket.Location = new System.Drawing.Point(494, 41);
+            this.btn_Search_Stok_Hareket.Name = "btn_Search_Stok_Hareket";
+            this.btn_Search_Stok_Hareket.Size = new System.Drawing.Size(58, 39);
+            this.btn_Search_Stok_Hareket.TabIndex = 4;
+            // 
+            // txt_Stok_İsmi_Hareket
+            // 
+            this.txt_Stok_İsmi_Hareket.Location = new System.Drawing.Point(98, 86);
+            this.txt_Stok_İsmi_Hareket.Name = "txt_Stok_İsmi_Hareket";
+            this.txt_Stok_İsmi_Hareket.Size = new System.Drawing.Size(454, 20);
+            this.txt_Stok_İsmi_Hareket.TabIndex = 3;
+            // 
+            // txt_Stok_Kodu_Hareket
+            // 
+            this.txt_Stok_Kodu_Hareket.Location = new System.Drawing.Point(98, 43);
+            this.txt_Stok_Kodu_Hareket.Name = "txt_Stok_Kodu_Hareket";
+            this.txt_Stok_Kodu_Hareket.Size = new System.Drawing.Size(390, 20);
+            this.txt_Stok_Kodu_Hareket.TabIndex = 2;
             // 
             // lbl_Stok_İsmi_Hareket
             // 
@@ -88,27 +102,13 @@ namespace OnMuhasebe.StokModulu
             this.lbl_Stok_İsmi_Hareket.TabIndex = 1;
             this.lbl_Stok_İsmi_Hareket.Text = "Stok İsmi";
             // 
-            // btn_Search_Stok_Hareket
+            // lbl_Stok_Kodu_Hareket
             // 
-            this.btn_Search_Stok_Hareket.ImageOptions.Image = global::OnMuhasebe.Properties.Resources.lookup_reference_32x321;
-            this.btn_Search_Stok_Hareket.Location = new System.Drawing.Point(494, 41);
-            this.btn_Search_Stok_Hareket.Name = "btn_Search_Stok_Hareket";
-            this.btn_Search_Stok_Hareket.Size = new System.Drawing.Size(43, 39);
-            this.btn_Search_Stok_Hareket.TabIndex = 4;
-            // 
-            // txt_Stok_İsmi_Hareket
-            // 
-            this.txt_Stok_İsmi_Hareket.Location = new System.Drawing.Point(98, 86);
-            this.txt_Stok_İsmi_Hareket.Name = "txt_Stok_İsmi_Hareket";
-            this.txt_Stok_İsmi_Hareket.Size = new System.Drawing.Size(439, 20);
-            this.txt_Stok_İsmi_Hareket.TabIndex = 3;
-            // 
-            // txt_Stok_Kodu_Hareket
-            // 
-            this.txt_Stok_Kodu_Hareket.Location = new System.Drawing.Point(98, 43);
-            this.txt_Stok_Kodu_Hareket.Name = "txt_Stok_Kodu_Hareket";
-            this.txt_Stok_Kodu_Hareket.Size = new System.Drawing.Size(390, 20);
-            this.txt_Stok_Kodu_Hareket.TabIndex = 2;
+            this.lbl_Stok_Kodu_Hareket.Location = new System.Drawing.Point(12, 46);
+            this.lbl_Stok_Kodu_Hareket.Name = "lbl_Stok_Kodu_Hareket";
+            this.lbl_Stok_Kodu_Hareket.Size = new System.Drawing.Size(48, 13);
+            this.lbl_Stok_Kodu_Hareket.TabIndex = 0;
+            this.lbl_Stok_Kodu_Hareket.Text = "Stok Kodu";
             // 
             // gridControl1
             // 
