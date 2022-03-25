@@ -114,7 +114,7 @@ namespace OnMuhasebe
             this.ribbonControl1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.ribbonPage1});
             this.ribbonControl1.ShowToolbarCustomizeItem = false;
-            this.ribbonControl1.Size = new System.Drawing.Size(1393, 158);
+            this.ribbonControl1.Size = new System.Drawing.Size(1368, 158);
             this.ribbonControl1.Toolbar.ShowCustomizeItem = false;
             this.ribbonControl1.ToolbarLocation = DevExpress.XtraBars.Ribbon.RibbonQuickAccessToolbarLocation.Hidden;
             // 
@@ -376,7 +376,7 @@ namespace OnMuhasebe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1393, 791);
+            this.ClientSize = new System.Drawing.Size(1368, 791);
             this.Controls.Add(this.ribbonControl1);
             this.Name = "frmAnaSayfa";
             this.Ribbon = this.ribbonControl1;
